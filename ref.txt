@@ -1,0 +1,2 @@
+https://data-flair.training/blogs/top-hadoop-hdfs-commands-tutorial/
+http://www.hadoopinrealworld.com/dissecting-mapreduce-program-part1/
